@@ -18,13 +18,13 @@ Body: {
 
 ## Sample Ouput
 
-# single image
+## single image
 
-<img src="screenshots/Postman_single_image.png" width="500" height="280" />
+<img src="screenshots/Postman_single_image.png" width="600" height="380" />
 
-# multiple image 
+## multiple image 
 
-<img src="screenshots/Postman_12_image.png" width="400" height="280" />
+<img src="screenshots/Postman_12_image.png" width="600" height="380" />
 
 ## Back_End: 
 Python, Flask  
