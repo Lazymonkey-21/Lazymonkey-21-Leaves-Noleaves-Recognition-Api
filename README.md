@@ -18,7 +18,7 @@ Body: {
 
 ## Sample Ouput
 For single image
-<img src="screenshots/Postman_single_image.png" width="400" height="280" />
+<img src="screenshots/Postman_single_image.png" width="500" height="280" />
 For multiple image
 <img src="screenshots/Postman_12_image.png" width="400" height="280" />
 
