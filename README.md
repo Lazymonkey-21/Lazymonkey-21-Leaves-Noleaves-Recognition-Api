@@ -61,10 +61,12 @@ from tensorflow.keras.models import load_model
 </pre>
 
 ## RUN: 
-
+0. Download model from the google drive from given link below
+<pre>https://drive.google.com/drive/folders/1FgcsmqkryiFAymHLK_VVf0JhWfBaTK8H?usp=sharing</pre>
 1. Clone the repo   
 2. Create environment  
-3. pip install -r requirements.txt  
+3. pip install -r requirements.txt
+4. change dir path inside project according to your model location.
 4. python app.py  
 
 
