@@ -20,7 +20,7 @@ Body: {
 
 ## single image
 
-<img src="screenshots/Postman_single_image.png" width="600" height="380" />
+<img src="screenshots/Postman_single_image.png" width="700" height="380" />
 
 ## multiple image 
 
