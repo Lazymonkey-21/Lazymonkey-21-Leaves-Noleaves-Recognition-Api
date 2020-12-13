@@ -36,14 +36,14 @@ sqlite3
 
 ### Flask libraries
 from flask import Flask, request, jsonify, make_response
-# lib for base64 conversion
+### lib for base64 conversion
 import base64
-# lib for interacting with the operating system
+### lib for interacting with the operating system
 import os
-# API Jason files
+### API Jason files
 from flask_restful import Resource, Api
 import json
-# tensorflow libraries
+### tensorflow libraries
 from tensorflow import keras
 import tensorflow as tf
 import numpy as np
