@@ -17,29 +17,40 @@ Body: {
 }
 
 ## Sample Ouput
-For single image
-<img src="assests/benchmark.png" width="900" height="480" />
-For multiple image
-<img src="assests/benchmark.png" width="900" height="480" />
+
+## single image
+
+<img src="screenshots/Postman_single_image.png" width="700" height="380" />
+
+## multiple image 
+
+<img src="screenshots/Postman_12_image.png" width="600" height="380" />
 
 ## Back_End: 
 Python, Flask  
 
-## Database 
-sqlite3
 
 ## Libraries_used: 
 
-# Flask libraries
+### Flask libraries
+<pre>
 from flask import Flask, request, jsonify, make_response
-# lib for base64 conversion
+</pre>
+### lib for base64 conversion
+<pre>
 import base64
-# lib for interacting with the operating system
+</pre>
+### lib for interacting with the operating system
+<pre>
 import os
-# API Jason files
+</pre>
+### API Jason files
+<pre>
 from flask_restful import Resource, Api
 import json
-# tensorflow libraries
+</pre>
+### tensorflow libraries
+<pre>
 from tensorflow import keras
 import tensorflow as tf
 import numpy as np
@@ -47,7 +58,7 @@ from tensorflow.keras.preprocessing import image
 from tensorflow.keras.applications.inception_v3 import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array
 from tensorflow.keras.models import load_model
-   
+</pre>
 
 ## RUN: 
 
@@ -56,9 +67,6 @@ from tensorflow.keras.models import load_model
 3. pip install -r requirements.txt  
 4. python app.py  
 
-## Benchmark:
-
-<img src="assests/benchmark.png" width="640" height="480" />
 
 ## Demo:  
 
