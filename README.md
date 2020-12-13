@@ -18,9 +18,9 @@ Body: {
 
 ## Sample Ouput
 For single image
-<img src="assests/benchmark.png" width="900" height="480" />
+<img src="screenshots/Postman_single_image.png" width="900" height="480" />
 For multiple image
-<img src="assests/benchmark.png" width="900" height="480" />
+<img src="screenshots/Post_12_image.png" width="900" height="480" />
 
 ## Back_End: 
 Python, Flask  
@@ -56,9 +56,6 @@ from tensorflow.keras.models import load_model
 3. pip install -r requirements.txt  
 4. python app.py  
 
-## Benchmark:
-
-<img src="assests/benchmark.png" width="640" height="480" />
 
 ## Demo:  
 
