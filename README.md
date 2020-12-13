@@ -18,9 +18,9 @@ Body: {
 
 ## Sample Ouput
 For single image
-<img src="screenshots/Postman_single_image.png" width="900" height="480" />
+<img src="screenshots/Postman_single_image.png" width="600" height="480" />
 For multiple image
-<img src="screenshots/Post_12_image.png" width="900" height="480" />
+<img src="screenshots/Postman_12_image.png" width="600" height="480" />
 
 ## Back_End: 
 Python, Flask  
