@@ -29,20 +29,26 @@ Body: {
 ## Back_End: 
 Python, Flask  
 
-## Database 
-sqlite3
 
 ## Libraries_used: 
 
 ### Flask libraries
+<pre>
 from flask import Flask, request, jsonify, make_response
+</pre>
 ### lib for base64 conversion
+<pre>
 import base64
+</pre>
 ### lib for interacting with the operating system
+<pre>
 import os
+</pre>
 ### API Jason files
+<pre>
 from flask_restful import Resource, Api
 import json
+</pre>
 ### tensorflow libraries
 <pre>
 from tensorflow import keras
