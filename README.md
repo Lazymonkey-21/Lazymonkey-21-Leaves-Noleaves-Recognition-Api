@@ -44,6 +44,7 @@ import os
 from flask_restful import Resource, Api
 import json
 ### tensorflow libraries
+<pre>
 from tensorflow import keras
 import tensorflow as tf
 import numpy as np
@@ -51,7 +52,7 @@ from tensorflow.keras.preprocessing import image
 from tensorflow.keras.applications.inception_v3 import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array
 from tensorflow.keras.models import load_model
-   
+</pre>
 
 ## RUN: 
 
