@@ -70,4 +70,4 @@ from tensorflow.keras.models import load_model
 
 ## Demo:  
 
-<img src="assests/demo.gif" width="720" height="480" />
+<img src="flas_demo.gif" width="720" height="480" />
