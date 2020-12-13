@@ -34,7 +34,7 @@ sqlite3
 
 ## Libraries_used: 
 
-# Flask libraries
+### Flask libraries
 from flask import Flask, request, jsonify, make_response
 # lib for base64 conversion
 import base64
